@@ -8,7 +8,7 @@
 > 💡: English version is available [here](./README.md).
 
 <div align="center">
-    <img src="_img/icon_channel.jpg" alt="channel icon" title="Channel icon">
+    <img src="_img/icon_channel.png" alt="channel icon" title="Channel icon">
 </div>
 
 おれさまラボのYouTubeチャンネルへようこそ！
