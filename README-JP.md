@@ -19,11 +19,7 @@
 
 それでは、このチャンネルをお楽しみください！
 
-<div style="text-align: center;">
-    <font size=6 color=#ACACAC>
-        <i><b>powerd by</b></i>
-    </font>
-</div>
+***powerd by***
 
 <br>
 

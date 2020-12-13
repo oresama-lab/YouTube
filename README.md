@@ -20,11 +20,7 @@ If you have any requests, such as "I want you to post this kind of video," pleas
 
 So, please enjoy our channel!!
 
-<div style="text-align: center;">
-    <font size=6 color=#ACACAC>
-        <i><b>powerd by</b></i>
-    </font>
-</div>
+***powerd by***
 
 <br>
 
