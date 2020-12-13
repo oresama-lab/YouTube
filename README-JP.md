@@ -81,6 +81,6 @@
 | －    | 1か月の視聴回数900回達成    | n/a        |
 | －    | 1か月の視聴回数1,000回達成  | n/a        |
 
-## ✔ ライセンス
+## ✅ ライセンス
 
 Copyright 2020 oresamalabo.net All Right Reserved.

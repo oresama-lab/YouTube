@@ -82,6 +82,6 @@ So, please enjoy our channel!!
 | －      | Achieved 900 views in one month.         | n/a       |
 | －      | Achieved 1,000 views in one month.       | n/a       |
 
-## ✓ Licence
+## ✅ Licence
 
 Copyright 2020 oresamalabo.net All Right Reserved.
