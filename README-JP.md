@@ -1,5 +1,6 @@
 # おれさまラボのYouTubeチャンネル
 
+![](https://vistr.dev/badge?repo=oresama-lab.YouTubeChannel)
 ![](https://img.shields.io/github/issues/oresama-lab/YouTube)
 ![](https://img.shields.io/twitter/follow/skksky_tech?label=follow&style=social)
 
